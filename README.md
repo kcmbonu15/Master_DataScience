@@ -5,7 +5,7 @@ The phrase “data science workflow” describes the method or steps by which a 
 
 Identifying a question of interest - determining if it is feasible
 Identifying data to answer that question
-Importing that data into a programming language such as R
+Importing that data into a programming language such as Python
 Cleaning / wrangling / and tiding the data
 Exploratory data analysis to get to know the data
 Data analysis to look for associations in the data
